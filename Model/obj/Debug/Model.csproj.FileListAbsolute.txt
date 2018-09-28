@@ -1,0 +1,6 @@
+C:\Users\Alex\Source\Repos\Asteroids\Model\bin\Debug\Model.dll
+C:\Users\Alex\Source\Repos\Asteroids\Model\bin\Debug\Model.pdb
+C:\Users\Alex\Source\Repos\Asteroids\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Source\Repos\Asteroids\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Source\Repos\Asteroids\Model\obj\Debug\Model.dll
+C:\Users\Alex\Source\Repos\Asteroids\Model\obj\Debug\Model.pdb
